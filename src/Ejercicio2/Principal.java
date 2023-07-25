@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class RazasPerrov2 {
+public class Principal {
 
     private static ArrayList<String> razas = new ArrayList<>();
     private static Scanner input = new Scanner(System.in);

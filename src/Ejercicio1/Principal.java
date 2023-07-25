@@ -9,7 +9,7 @@ package Ejercicio1;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class RazasPerro {
+public class Principal {
 
     public static void main(String[] args) {
 

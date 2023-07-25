@@ -1,2 +1,4 @@
-package EjercicioExtra1;public class Principal {
+package EjercicioExtra1;
+
+public class Principal {
 }
